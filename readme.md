@@ -11,7 +11,8 @@ are from normal mood)
 #### I = cursor will move start of the current line (from normal mood) ####
 3 (any number) and press up/down arrow key (from normal mood, to go 3/any number line up/down)
  
-```0 k = up
+```
+k = up
 j = bottom
 10 k -> to of the 10th line
 ```
