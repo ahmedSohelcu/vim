@@ -5,7 +5,8 @@ To check vim installed: vim (from  terminal)
 To install vim: sudo apt install vim
 
 ------------------------------------
-#### Short cut with example (All command are from normal mood)
+#### Short cut with example (All command
+are from normal mood)
 ------------------------------------
 ```
 A = cursor will go create and go a new line top of the current line
@@ -59,6 +60,7 @@ p=paste
 P= paste top the current line
 10p = paste 10 times
 cc = cut the whole line without select
+ciw = change in word (will cut the whole word)
 r=replace
 u = word (even seperated by space,- will count as seperate word) 
 W = word (if only seperated by _ will count as single word )
@@ -69,7 +71,11 @@ b = 1 word back
 10b = 10 word back
 w = 1 word forward
 10w= 10 word forward
+ci" = change inside " 
+	Example: echo "this content will select and cut";
 
+ci( = change inside the parentesis. 
+Example: (Hello change this content)
 
 ```
 -------------------------------
@@ -93,8 +99,17 @@ it is an unknown printer took a galley of type and scrambled it to make a type s
 It has test not only five centuries, but also the leap into electronic typesetting,
 remaining essentially unchanged. It was popularised in the 1960s with the release of Letrase
 
+Lorem Ipsum is simply dummy text of the printing and ttypesetting ypesetting industry.
+it is an unknown printer took a galley of type and scrambled it to make a type specimen book. 
+It has test not only five centuries, but also the leap into electronic typesetting,
+remaining essentially unchanged. It was popularised in the 1960s with the release of Letrase
+
 #### What is Lorem Ipsum?
 Lorem Ipsum is simply dummy text of the printing and ttypesetting ypesetting industry.
 Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, 
 it is an unknown printer took a galley of type and scrambled it to make a type specimen book. 
 It has test not only five centuries, but also the leap into electronic typesetting,
+
+publi functio (){
+	echo "nice";
+}
