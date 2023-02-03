@@ -5,8 +5,7 @@ To check vim installed: vim (from  terminal)
 To install vim: sudo apt install vim
 
 ------------------------------------
-#### Short cut with example (All command
-are from normal mood)
+#### Short cut with example (All command are from normal mood)
 ------------------------------------
 ```
 A = cursor will go create and go a new line top of the current line
