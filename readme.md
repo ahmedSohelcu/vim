@@ -19,5 +19,5 @@ j = bottom
 -------------------------------------
 ### Install vim feature and add new
 -------------------------------------
-:set number (from command mood, to show number in terminal)
-:set relativenumber (relative number in terminal)
+#### :set number (from command mood, to show number in terminal)
+#### :set relativenumber (relative number in terminal)
