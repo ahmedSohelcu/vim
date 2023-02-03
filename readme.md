@@ -7,6 +7,7 @@ To install vim: ```sudo apt install vim```
 ## Short cut with example (All command
 are from normal mood)
 ------------------------------------
+```
 ### A = cursor will go create and go a new line top of the current line
 #### I = cursor will move start of the current line (from normal mood) ####
 3 (any number) and press up/down arrow key (from normal mood, to go 3/any number line up/down)
