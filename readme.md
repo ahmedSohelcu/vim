@@ -66,6 +66,11 @@ W = word (if only seperated by _ will count as single word )
 even seperated by space,- will count as seperate word) 
 yiw = (yank in a word) to copy current word (put cursor any of the character of the word)
 ciw = cut the word 
+b = 1 word back
+10b = 10 word back
+w = 1 word forward
+10w= 10 word forward
+
 
 ```
 -------------------------------
@@ -94,4 +99,3 @@ Lorem Ipsum is simply dummy text of the printing and ttypesetting ypesetting ind
 Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, 
 it is an unknown printer took a galley of type and scrambled it to make a type specimen book. 
 It has test not only five centuries, but also the leap into electronic typesetting,
-remaining essentially unchanged. It was popularised in the 1960s with the release of Letrase.
